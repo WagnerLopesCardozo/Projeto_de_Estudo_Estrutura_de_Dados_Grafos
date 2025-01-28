@@ -21,3 +21,7 @@ Fonte figura - Gargharshit, 2020 acessado em: https://medium.com/@gargharshit412
 <p align="justify">A otimização de algoritmos de grafos requer um equilíbrio entre tempo e espaço, considerando as restrições e características do problema. Estruturas como heaps binários ou heaps de Fibonacci podem ser utilizadas para acelerar operações em algoritmos de caminho mínimo. Além disso, a análise de casos específicos, como a presença de ciclos ou componentes fortemente conectados, pode guiar a escolha de estratégias mais eficientes. O uso de Python, com suas bibliotecas otimizadas e integração com ferramentas de baixo nível, permite implementar soluções que equilibram acessibilidade e desempenho.</p>
 
 <p align="justify">Portanto, a estrutura de dados grafos e seus algoritmos associados representam um campo essencial para a resolução de problemas computacionais complexos. A análise rigorosa da eficiência em termos de tempo e espaço, associada à implementação cuidadosa em linguagens de programação como Python, contribui para o desenvolvimento de soluções otimizadas. À medida que os desafios computacionais crescem em escala e complexidade, o domínio dos conceitos fundamentais de grafos e a aplicação prática de seus algoritmos permanecem pilares da Ciência da Computação e Ciência de Dados.</p>
+
+## Referência Bibliográfica
+
+* CORMEM, T. H., LEISERSON C. E., RIVEST R. L., STEIN C., Algoritmos Teoria e Prática – Gen LTC, 3ª Edição, 2012, ISBN-13: 978-8535236996
